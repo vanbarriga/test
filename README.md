@@ -1,3 +1,5 @@
+![johnny](http://www.telegraph.co.uk/content/dam/films/2017/07/20/The-Room-Movie-Poster_trans_NvBQzQNjv4BqNUHzxaamNmHDqK-YksWRz2o-yMLyYquKCawpyDOW254.jpg?imwidth=450)
+
 # **_The QA way to create a program_**
 ## _Introduction_
 
@@ -14,3 +16,8 @@
   </body>
 </html>
 ```
+
+- Oh Hi Mark
+- Oh hi doggy
+- in a few minutes
+- I'm fed up with this world
